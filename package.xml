@@ -1,0 +1,18 @@
+<package>
+  <name>imu_interface_broadcaster</name>
+  <version>0.0.0</version>
+  <description>The imu_interface_broadcaster package</description>
+  <maintainer email="i@todo.todo">i</maintainer>
+  <license>TODO</license>
+  <build_depend>message_generation</build_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>serial</build_depend>
+  <build_depend>imu_interface_msg</build_depend>
+  <run_depend>message_runtime</run_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>serial</run_depend>
+  <run_depend>imu_interface_msg</run_depend>
+  <buildtool_depend>catkin</buildtool_depend>
+  <export>
+  </export>
+</package>
